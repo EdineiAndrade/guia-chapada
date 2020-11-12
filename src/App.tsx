@@ -8,15 +8,18 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+           <h1>Guia da Chapada Diamantina</h1>
+           <h2></h2>
         </p>
+        <h4>Edinei Brito Andrade</h4>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="http://informebarra.com.br/v2/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          <h4>Informe Barra Site de Notícias</h4>
+          
         </a>
       </header>
     </div>
